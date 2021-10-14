@@ -1,0 +1,1 @@
+enum TipoBarraInicial {inicio,categoria,produto,compra,favorito}

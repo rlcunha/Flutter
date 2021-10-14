@@ -1,0 +1,8 @@
+C:/Jobs/Flutter/teste/build/windows/runner/Debug/data/icudtl.dat
+C:/Jobs/Flutter/teste/build/windows/runner/Debug/flutter_windows.dll
+C:/Jobs/Flutter/teste/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Jobs/Flutter/teste/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Jobs/Flutter/teste/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Jobs/Flutter/teste/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Jobs/Flutter/teste/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Jobs/Flutter/teste/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
